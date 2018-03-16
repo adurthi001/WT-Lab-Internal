@@ -1,0 +1,68 @@
+body{
+    background-image:url("image/1.jpg");
+    color:white;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+.satya
+{
+	padding-left:45%;
+	padding-top:10%;
+	
+}
+
+.button {
+background: yellow;
+color: white;
+border-style: outset;
+border-color: blue;
+height: 50px;
+width: 100px;
+ border-radius: 10px;
+font: bold 15px;
+text-shadow:black;
+
+}
+
+
+.abc{
+    padding: 3;
+    height: 50px;
+    position: relative;
+    background-color: white;
+    font-size: 16px;
+	border-radius: 20px;
+	border-color: black;
+	color:black;
+}
+
+h1,h2,h3,p	{
+
+font-family: arial;
+font-size: 75px;
+font-weight: bold;
+color:black;
+
+
+}
+.chinna{
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: orange;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+p
+{
+	 font-weight: bold;
+	 color: white;
+	 font-size: 75px;
+}
+
